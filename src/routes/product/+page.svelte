@@ -1,1 +1,1 @@
-<h1>This is your product page</h1>
+<h1>gallery</h1>
